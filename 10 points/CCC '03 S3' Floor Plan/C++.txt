@@ -3,6 +3,8 @@
 #include <map>
 #include <algorithm>
 
+// CCC '03S3' Floor Plan
+
 typedef std::pair<int, int> PII;
 
 int r, c;

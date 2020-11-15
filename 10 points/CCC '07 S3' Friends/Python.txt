@@ -2,6 +2,7 @@ import sys
 
 sys.setrecursionlimit(20000)
 
+#CCC '07 S3' Friends
 
 def dfs(start, end, current, dis, visited):
     visited[current] = True

@@ -1,5 +1,6 @@
 from collections import deque
 
+#CCC '08 S3' Maze
 
 def graph(current, currentPos):
     if current == "-" and (currentPos[0] - 1 >= 1 or currentPos[0] + 1 <= column):

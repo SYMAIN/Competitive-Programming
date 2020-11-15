@@ -1,3 +1,5 @@
+# CCC '07 S4' Waterpark
+
 def dfs(current):
     if nodePaths[current] != 0:
         return nodePaths[current]

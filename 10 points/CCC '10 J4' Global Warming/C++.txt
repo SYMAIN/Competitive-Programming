@@ -2,6 +2,7 @@
 #include<vector>
 #include <climits>
 
+// CCC '10 J4' Global Warming
 bool checkIn(std::vector<int> seq, int n) {
 	for (int i = 1; i < seq.size(); i++) {
 		if (seq[i] == n)

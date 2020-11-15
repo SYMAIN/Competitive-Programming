@@ -2,6 +2,7 @@
 #include <vector>
 #include <map>
 
+// CCC '12 S5' Mouse Journey
 typedef std::pair<int, int> PII;
 
 bool find(std::vector<PII> cats, PII element) {

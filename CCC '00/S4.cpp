@@ -3,8 +3,6 @@
 #include <unordered_map>
 #include <algorithm>
 
-// CCC '00 S4' Golf
-
 std::unordered_map<int, int> dp; // the faster/least amount of clubs needed for a distance
 std::vector<int> clubs;
 

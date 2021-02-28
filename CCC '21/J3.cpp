@@ -15,7 +15,7 @@ void solve(std::string str, std::string& prev) {
 } 
 
 int main() {
-	std::string N;
+    std::string N;
     std::string prev = "";
     std::cin >> N;
     while (N != "99999") {

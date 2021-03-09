@@ -13,11 +13,19 @@ BAC
 CAB
 CBA
 
-To calculate the permutation of a given set, we can perform a recursion until we have found all the possible solutions. In our recursion, we must check if our current set has already been visited, if not we save our current set for future reference to check. Next, we must iterate through the set starting at index 1(because we do not want to swap itself) until the end of the set. For every iteration, we would create a copy of the set and swap out the first element of the set(index 0) and the current index of set(define by the loop). 
-For example ABC, if the current index is 2, we would swap the first element and the 2 index of set, giving us CBA.
+To calculate the permutation of a given set, we can perform a recursion until we have found
+all the possible solutions. In our recursion, we must check if our current set has already 
+been visited, if not we save our current set for future reference to check. Next, we must 
+iterate through the set starting at index 1(because we do not want to swap itself) until 
+the end of the set. For every iteration, we would create a copy of the set and swap out 
+the first element of the set(index 0) and the current index of set(define by the loop). 
+For example ABC, if the current index is 2, we would swap the first element and the 2 index
+of set, giving us CBA.
 Lastly, we recur the function again, passing our new set as a parameter.
 
-In our inputs we given a certain numbers of 1s, 0s and the length of the set. We first construct an array holding all the numbers such that we satisfied the requirement. Next, we calculate all the possible permutations using the method explained above and print out the array accordingly.
+In our inputs we given a certain numbers of 1s, 0s and the length of the set. 
+We first construct an array holding all the numbers such that we satisfied the requirement. 
+Next, we calculate all the possible permutations using the method explained above and print out the array accordingly.
 */
 
 //CODE

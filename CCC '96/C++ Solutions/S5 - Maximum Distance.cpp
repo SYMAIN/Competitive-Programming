@@ -1,4 +1,3 @@
-
 /*
 Author: Simon Yang
 Problem: https://dmoj.ca/problem/ccc96s5

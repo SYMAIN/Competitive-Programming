@@ -8,8 +8,8 @@ We can solve this by having 3 neted loop with the subject being the first loop, 
 second loop and the object being the last loop. We can then print out the sentences accordingly with each iteration.
 
 NOTE: The problem did say to put them into alphabetical order,
-however there is no such problem where you are require to put the sentences into alphabetical order. 
-Hence I did not implement the alg and stil AC.  
+however there is no such test case where you are require to put the sentences into alphabetical order. 
+Hence I did not implement the alg and stil got AC.  
 */
 
 //CODE

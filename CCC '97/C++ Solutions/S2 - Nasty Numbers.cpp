@@ -4,7 +4,8 @@ Problem: https://dmoj.ca/problem/ccc97s2
 Explanation
 -------------------------------------------
 The problem is asking to find 2 pairs of factors such that the differences of one pair is equal to the sum
-of the other pair. We can solve this by finding all the factors of a number using a loop, chcking up to n. Next we can have a nested loop to check all the factors to see if they are a nasty number of not.
+of the other pair. We can solve this by finding all the factors of a number using a loop, chcking up to n. 
+Next we can have a nested loop to check all the factors to see if they are a nasty number of not.
 */
 
 //CODE

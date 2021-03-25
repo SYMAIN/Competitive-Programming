@@ -1,5 +1,5 @@
-# DMOJ-solutions
-Here are my solutions to the problems I solved on DMOJ. 
+# Competitive-programming-solutions
+Here are my solutions to the problems I solved on DMOJ and code jam.
 
 My DMOJ Account: https://dmoj.ca/user/QqWwEe123123123
 
